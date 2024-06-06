@@ -5,6 +5,7 @@ import {
   QuipuOverhandKnot,
   SceneGraph,
 } from "./utils";
+
 import svgEndKnot from "bundle-text:../assets/end-knot.svg";
 import svgPrimaryCord from "bundle-text:../assets/primary-cord.svg";
 import svgPendantCord from "bundle-text:../assets/pendant-cord.svg";

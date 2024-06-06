@@ -10,6 +10,7 @@ class Quipu(object):
     QUIPU_JS = "build/index.js"
 
     def __init__(self, data = None, label = None, value = None, options = None):
+#        print(data)
         self.options = options or {}
         self.data = prepare_data(data, label, value)
         self.label = label
