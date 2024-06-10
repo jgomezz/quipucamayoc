@@ -5,6 +5,7 @@ build/
 quipucamayoc.egg-info
 dist
 .ipynb_checkpoints
+__pycache__
 
 # local env files
 env
