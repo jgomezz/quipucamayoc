@@ -99,3 +99,4 @@ rm pendant-cord-large.png
 inkscape primary-cord.svg --export-type="png" --export-filename="primary-cord.png"  --export-dpi=120
 magick primary-cord.png primary-cord.gif
 rm primary-cord.png
+# $120.00  $96
