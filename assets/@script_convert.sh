@@ -75,6 +75,32 @@ magick pendant-cord-large.png pendant-cord-large.gif
 inkscape primary-cord.svg --export-type="png" --export-filename="primary-cord.png"  --export-dpi=120
 magick primary-cord.png primary-cord.gif
 
+inkscape top-long-knot-1.svg --export-type="png" --export-filename="top-long-knot-1.png"  --export-dpi=120
+magick top-long-knot-1.png top-long-knot-1.gif
+
+inkscape top-long-knot-2.svg --export-type="png" --export-filename="top-long-knot-2.png"  --export-dpi=120
+magick top-long-knot-2.png top-long-knot-2.gif
+
+inkscape top-long-knot-3.svg --export-type="png" --export-filename="top-long-knot-3.png"  --export-dpi=120
+magick top-long-knot-3.png top-long-knot-3.gif
+
+inkscape top-long-knot-4.svg --export-type="png" --export-filename="top-long-knot-4.png"  --export-dpi=120
+magick top-long-knot-4.png top-long-knot-4.gif
+
+inkscape top-long-knot-5.svg --export-type="png" --export-filename="top-long-knot-5.png"  --export-dpi=120
+magick top-long-knot-5.png top-long-knot-5.gif
+
+inkscape top-long-knot-6.svg --export-type="png" --export-filename="top-long-knot-6.png"  --export-dpi=120
+magick top-long-knot-6.png top-long-knot-6.gif
+
+inkscape top-long-knot-7.svg --export-type="png" --export-filename="top-long-knot-7.png"  --export-dpi=120
+magick top-long-knot-7.png top-long-knot-7.gif
+
+inkscape top-long-knot-8.svg --export-type="png" --export-filename="top-long-knot-8.png"  --export-dpi=120
+magick top-long-knot-8.png top-long-knot-8.gif
+
+inkscape top-long-knot-9.svg --export-type="png" --export-filename="top-long-knot-9.png"  --export-dpi=120
+magick top-long-knot-9.png top-long-knot-9.gif
 
 inkscape top-overhand-knot-1.svg --export-type="png" --export-filename="top-overhand-knot-1.png"  --export-dpi=120
 magick top-overhand-knot-1.png top-overhand-knot-1.gif
